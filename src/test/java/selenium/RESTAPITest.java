@@ -7,5 +7,8 @@ public class RESTAPITest {
 	@Test
 	public void rest() {
 		System.out.println("resttest");
+		System.out.println("resttest");
+		System.out.println("resttest");
+
 	}
 }
