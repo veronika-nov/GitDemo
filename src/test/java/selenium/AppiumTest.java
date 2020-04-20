@@ -7,7 +7,6 @@ public class AppiumTest {
 	@Test
 	public void jira() {
 		System.out.println("jiratest");
-		System.out.println("jiratest");
 
 	}
 }
